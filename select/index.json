@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Get Lucky - Radio Edit（feat. ファレル・ウィリアムス、ナイル・ロジャース）",
+  "base_artist": "ダフト・パンク",
+  "createdAt": "2025-12-14T07:54:32.203575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If You Get Lucky",
+      "artist": "Logan Mize",
+      "has_synced": true,
+      "path": "select/01_If_You_Get_Lucky_Logan_Mize.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get Lucky",
+      "artist": "Daft Punk feat. Pharrell Williams and Nile Rodgers",
+      "has_synced": true,
+      "path": "select/02_Get_Lucky_Daft_Punk_feat._Pharrell_Williams_and_Nile_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Lucky",
+      "artist": "New Young Pony Club",
+      "has_synced": false,
+      "path": "select/03_Get_Lucky_New_Young_Pony_Club.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Lucky",
+      "artist": "Jermaine Stewart",
+      "has_synced": true,
+      "path": "select/04_Get_Lucky_Jermaine_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Lucky (radio edit)",
+      "artist": "Daft Punk feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/05_Get_Lucky_(radio_edit)_Daft_Punk_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/06_Get_Lucky_(Radio_Edit)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Lucky",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/07_Get_Lucky_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Lucky",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/08_Get_Lucky_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Lucky",
+      "artist": "Heatmiser",
+      "has_synced": false,
+      "path": "select/09_Get_Lucky_Heatmiser.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Lucky",
+      "artist": "Mark Knopfler",
+      "has_synced": true,
+      "path": "select/10_Get_Lucky_Mark_Knopfler.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
+      "has_synced": true,
+      "path": "select/11_Get_Lucky_(feat._Pharrell_Williams_&_Nile_Rodgers)_-_Radio_Edit_Daft_Punk,_Pharrell_Williams,_Nile_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Lucky (album version)",
+      "artist": "Daft Punk feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/12_Get_Lucky_(album_version)_Daft_Punk_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get Lucky (Album Version)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/13_Get_Lucky_(Album_Version)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get Lucky (Daft Punk remix)",
+      "artist": "Daft Punk feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/14_Get_Lucky_(Daft_Punk_remix)_Daft_Punk_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get Lucky (Daft Punk Remix)",
+      "artist": "Daft Punk (Feat. Pharrell Williams)",
+      "has_synced": true,
+      "path": "select/15_Get_Lucky_(Daft_Punk_Remix)_Daft_Punk_(Feat._Pharrell_Williams).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get Lucky (Feat. Pharrell Williams)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/16_Get_Lucky_(Feat._Pharrell_Williams)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Get Lucky (Feat. Pharrell Williams)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/17_Get_Lucky_(Feat._Pharrell_Williams)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Win My Train Fare Home (If I Ever Get Lucky)",
+      "artist": "Robert Plant",
+      "has_synced": true,
+      "path": "select/18_Win_My_Train_Fare_Home_(If_I_Ever_Get_Lucky)_Robert_Plant.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Get Lucky - Radio Edit (feat. Pharrell Williams",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/19_Get_Lucky_-_Radio_Edit_(feat._Pharrell_Williams_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) [Feat. Pharrell Williams]",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/20_Get_Lucky_(Radio_Edit)_[Feat._Pharrell_Williams]_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams]",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/21_Get_Lucky_(Radio_Edit)_[feat._Pharrell_Williams]_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams]",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/22_Get_Lucky_(Radio_Edit)_[feat._Pharrell_Williams]_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit - feat",
+      "artist": "Daft Punk ft. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/23_Get_Lucky_(Radio_Edit_-_feat_Daft_Punk_ft._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) (feat. Pharrell Williams & Nile Rodgers)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/24_Get_Lucky_(Radio_Edit)_(feat._Pharrell_Williams_&_Nile_Rodgers)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "artist": "TheFatRat",
+      "has_synced": true,
+      "path": "select/25_Get_Lucky_(Radio_Edit)_[feat._Pharrell_Williams_and_Nile_Rodgers]_TheFatRat.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams]",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/26_Get_Lucky_(Radio_Edit)_[feat._Pharrell_Williams]_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/27_Get_Lucky_(Radio_Edit_-_feat._Pharrell_Williams_and_Nile_Rodgers)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Get Lucky  (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/28_Get_Lucky_(Radio_Edit_-_feat._Pharrell_Williams_and_Nile_Rodgers)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+      "artist": "Epic Dark",
+      "has_synced": true,
+      "path": "select/29_Get_Lucky_(Radio_Edit_-_feat._Pharrell_Williams_and_Nile_Rodgers)_Epic_Dark.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/30_Get_Lucky_(Radio_Edit)_[feat._Pharrell_Williams_and_Nile_Rodgers]_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit - feat. Pharrell Williams and Nile Rodgers)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/31_Get_Lucky_(Radio_Edit_-_feat._Pharrell_Williams_and_Nile_Rodgers)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) (feat. Pharrell Williams & Nile Rodgers)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/32_Get_Lucky_(Radio_Edit)_(feat._Pharrell_Williams_&_Nile_Rodgers)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/33_Get_Lucky_(Radio_Edit)_[feat._Pharrell_Williams_and_Nile_Rodgers]_Daft_Punk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Lucky",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Lucky_Daft_Punk.txt"
+    }
+  ]
+}
